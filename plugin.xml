@@ -10,5 +10,8 @@
     <config-file target="*-Info.plist" parent="NSBluetoothPeripheralUsageDescription">
       <string>$TEXT</string>
     </config-file>
+    <config-file target="*-Info.plist" parent="NSBluetoothAlwaysUsageDescription">
+      <string>$TEXT</string>
+    </config-file>
   </platform>
 </plugin>
