@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-bluetooth-peripheral-usage-description",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set Bluetooth Peripheral Usage Description on iOS",
   "cordova": {
     "id": "cordova-plugin-bluetooth-peripheral-usage-description",
